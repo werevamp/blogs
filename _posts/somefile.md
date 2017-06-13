@@ -7,3 +7,5 @@ layout: post
 --
 
 This test post made it sound and clear!!!
+
+Warriors are the winners!!!
