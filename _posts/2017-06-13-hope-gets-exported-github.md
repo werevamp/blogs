@@ -15,12 +15,10 @@ Export me please!!!
       console.log('World');
     }
     
-    
-```javascript
+
+`javascript
 function hello() {
   console.log('World');
-}
-```
-
+}`
 
 ## And this works as an h2
