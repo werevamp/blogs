@@ -6,7 +6,7 @@ post_date: 2017-04-17 19:58:45
 post_excerpt: ""
 layout: post
 permalink: >
-  http://applatix.staging.wpengine.com/webcast-build-run-containerized-apps-aws-kubernetes/
+  https://applatix.staging.wpengine.com/webcast-build-run-containerized-apps-aws-kubernetes/
 published: true
 ---
 <p><strong><span style="font-size: 16px;">It's one thing to get Docker and Kubernetes running on a laptop. Running containers in production at scale on AWS is another.</span></strong></p>

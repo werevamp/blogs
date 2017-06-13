@@ -6,7 +6,7 @@ post_date: 2017-05-02 03:09:48
 post_excerpt: ""
 layout: post
 permalink: >
-  http://applatix.staging.wpengine.com/video-form-webcast-build-run-containerized-apps-aws-kubernetes/
+  https://applatix.staging.wpengine.com/video-form-webcast-build-run-containerized-apps-aws-kubernetes/
 published: true
 ---
 <p>We want to thank everyone who attended our webcast "Build and Run Containerized apps on AWS and Kubernetes" and for all the great questions!</p>

@@ -6,7 +6,7 @@ post_date: 2017-04-12 18:13:56
 post_excerpt: ""
 layout: post
 permalink: >
-  http://applatix.staging.wpengine.com/best-definition-devops/
+  https://applatix.staging.wpengine.com/best-definition-devops/
 published: true
 ---
 <p>Earlier in this series of posts, we talked about how public cloud services (AWS, Google Cloud, and Microsoft Azure) differ from the private cloud in that the <a href="https://applatix.com/aws-public-cloud-not-equal-private-cloud/">public cloud is API based</a> and <a href="https://applatix.com/aws-instance-not-vm/">AWS instances are different than VMs</a>.</p>

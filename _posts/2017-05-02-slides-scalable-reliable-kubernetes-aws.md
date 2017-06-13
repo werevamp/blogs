@@ -6,7 +6,7 @@ post_date: 2017-05-02 21:43:04
 post_excerpt: ""
 layout: post
 permalink: >
-  http://applatix.staging.wpengine.com/slides-scalable-reliable-kubernetes-aws/
+  https://applatix.staging.wpengine.com/slides-scalable-reliable-kubernetes-aws/
 published: true
 ---
 <p class="p1"><span class="s1">Thank you, everyone, for attending my session on “Scalable and Reliable Kubernetes on AWS</span><span class="s2">” at </span>the <a href="https://www.meetup.com/Bay-Area-Kubernetes-Meetup/events/238391452/">Bay Area Kubernetes meetup</a> on<span class="s1"> May 1</span><span class="s4"><sup>st</sup></span><span class="s1">, 2017 at Avi Networks in Santa Clara.</span></p>
