@@ -13,7 +13,7 @@ Export me please!!!
 
 ```
 function hello() {
-  console.log(&#039;World&#039;);
+  console.log('World');
 }
 ```
 
