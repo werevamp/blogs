@@ -13,7 +13,7 @@ Export me please!!!
 
 ```
 function hello() {
-  console.log('World');
+  console.log(&#039;World&#039;);
 }
 ```
 
@@ -21,6 +21,10 @@ function hello() {
 function hello() {
   console.log(&#039;World&#039;);
 }
+```
+
+```
+&gt; cd hello/world
 ```
 
 <h2>And this works as an h2</h2>
