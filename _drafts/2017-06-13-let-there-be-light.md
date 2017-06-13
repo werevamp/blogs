@@ -7,6 +7,6 @@ post_excerpt: ""
 layout: post
 permalink: >
   http://applatix.staging.wpengine.com/?p=725
-published: false
+published: true
 ---
 Aha moment!!!!
