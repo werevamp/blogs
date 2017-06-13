@@ -13,13 +13,13 @@ Export me please!!!
 
 ```
 function hello() {
-  console.log('World');
+  console.log(&#039;World&#039;);
 }
 ```
 
 ```javascript
 function hello() {
-  console.log('World');
+  console.log(&#039;World&#039;);
 }
 ```
 
