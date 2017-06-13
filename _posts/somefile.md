@@ -1,10 +1,12 @@
---
-post_title: 'THIS MADE IT ALIVE!!!'
-author: Olga Vlaskina
-post_date: 2017-03-27 23:35:52
+---
+post_title: Post Title From Github!!!!!
+author: applatix
+post_date: 2017-06-13 21:45:30
 post_excerpt: ""
 layout: post
---
+permalink: >
+  http://applatix.staging.wpengine.com/post-title-from-github/<Paste>
+---
 
 This test post made it sound and clear!!!
 
