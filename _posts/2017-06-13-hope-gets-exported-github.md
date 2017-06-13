@@ -17,9 +17,10 @@ function hello() {
 }
 ```
 
-<code>javascript
+```javascript
 function hello() {
   console.log('World');
-}</code>
+}
+```
 
 <h2>And this works as an h2</h2>
