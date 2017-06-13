@@ -15,7 +15,7 @@ Export me please!!!
       console.log('World');
     }
     
-```
+```javascript
 function hello() {
   console.log('World');
 }
