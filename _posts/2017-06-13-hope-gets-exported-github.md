@@ -6,7 +6,11 @@ post_date: 2017-06-13 22:01:27
 post_excerpt: ""
 layout: post
 permalink: >
-  https://applatix.staging.wpengine.com/hope-gets-exported-github/
+  http://applatix.staging.wpengine.com/hope-gets-exported-github/
 published: true
 ---
 Export me please!!!
+
+    function hello() {
+      console.log('World');
+    }
