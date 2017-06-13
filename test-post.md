@@ -1,6 +1,6 @@
 ---
-post_title: 'Post Title'
-layout: post_type_probably_post
-published: true_or_false
+post_title: 'Post Title From Github!!!!!'
+layout: post
+published: true
 ---
 Post goes here.
