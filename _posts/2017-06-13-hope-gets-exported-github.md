@@ -15,5 +15,10 @@ Export me please!!!
       console.log('World');
     }
     
+```
+function hello() {
+  console.log('World');
+}
+```
 
 ## And this works as an h2
