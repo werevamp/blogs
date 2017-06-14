@@ -11,10 +11,11 @@ published: true
 ---
 Export me please!!!
 
-<pre><code>function hello() {
+```javascript
+function hello() {
   console.log('World');
 }
-</code></pre>
+```
 
 <pre><code class="javascript">function hello() {
   console.log('World');
