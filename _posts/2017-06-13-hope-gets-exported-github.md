@@ -12,16 +12,16 @@ published: true
 <p>Export me please!!!</p>
 
 <pre><code>function hello() {
-  console.log(&amp;#039;World&amp;#039;);
+  console.log('World');
 }
 </code></pre>
 
-<pre><code class=\"javascript\">function hello() {
-  console.log(&amp;#039;World&amp;#039;);
+<pre><code class="javascript">function hello() {
+  console.log('World');
 }
 </code></pre>
 
-<pre><code>&amp;gt; cd hello/world
+<pre><code>&gt; cd hello/world
 </code></pre>
 
 <h2>And this works as an h2</h2>
