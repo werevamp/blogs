@@ -22,7 +22,6 @@ function hello() {
 }
 </code></pre>
 
-<pre><code>&gt; cd hello/world/today
-</code></pre>
+'&gt; cd hello/world/today'
 
 <h2>And this works as an h2 </h2>
