@@ -11,7 +11,7 @@ published: true
 ---
 Export me please!!!
 
-```javascript
+```
 function hello() {
   console.log(&#039;World&#039;);
 }
