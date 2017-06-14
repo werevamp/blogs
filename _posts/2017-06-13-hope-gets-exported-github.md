@@ -9,22 +9,19 @@ permalink: >
   http://applatix.staging.wpengine.com/hope-gets-exported-github/
 published: true
 ---
-Export me please!!!
+<p>Export me please!!!</p>
 
-```
-function hello() {
-  console.log(&#039;World&#039;);
+<pre><code>function hello() {
+  console.log(&amp;#039;World&amp;#039;);
 }
-```
+</code></pre>
 
-```javascript
-function hello() {
-  console.log(&#039;World&#039;);
+<pre><code class=\"javascript\">function hello() {
+  console.log(&amp;#039;World&amp;#039;);
 }
-```
+</code></pre>
 
-```
-&gt; cd hello/world
-```
+<pre><code>&amp;gt; cd hello/world
+</code></pre>
 
 <h2>And this works as an h2</h2>
