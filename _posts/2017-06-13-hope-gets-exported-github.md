@@ -24,7 +24,7 @@ function hello() {
 ```
 
 ```
-> cd hello/world
+> cd hello/world/today
 ```
 
 <h2>And this works as an h2</h2>
