@@ -11,15 +11,17 @@ published: true
 ---
 <p>Export me please!!!</p>
 
-<pre><code>function hello() {
+~~~
+function hello() {
   console.log('World');
 }
-</code></pre>
+~~~
 
-<pre><code class="javascript">function hello() {
+```javascript
+function hello() {
   console.log('World');
 }
-</code></pre>
+```
 
 ```
 > cd hello/world
