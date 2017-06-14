@@ -21,7 +21,8 @@ published: true
 }
 </code></pre>
 
-<pre><code>&gt; cd hello/world
-</code></pre>
+```
+> cd hello/world
+```
 
 <h2>And this works as an h2</h2>
