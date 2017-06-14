@@ -11,6 +11,15 @@ published: true
 ---
 Export me please!!!
 
+
+```
+{
+  "hello": "world",
+  "name": "Albert"
+}
+
+```
+
 ~~~
 function hello() {
   console.log('World');
