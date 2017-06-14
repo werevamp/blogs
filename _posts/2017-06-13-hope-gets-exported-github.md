@@ -24,4 +24,4 @@ Export me please!!!
 <pre><code>&gt; cd hello/world/today
 </code></pre>
 
-<h2>And this works as an h2</h2>
+<h2>And this works as an h2 </h2>
