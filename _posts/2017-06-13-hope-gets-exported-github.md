@@ -11,11 +11,11 @@ published: true
 ---
 <p>Export me please!!!</p>
 
-~~~
+~~~~
 function hello() {
   console.log('World');
 }
-~~~
+~~~~
 
 ```javascript
 function hello() {
