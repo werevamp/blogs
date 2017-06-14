@@ -1,0 +1,12 @@
+---
+post_title: Warriors are champs!!!
+author: applatix
+post_date: 2017-06-13 21:54:30
+post_excerpt: ""
+layout: post
+published: false
+---
+
+## Here is some content
+
+I hope this post to the staging site.<Paste>
