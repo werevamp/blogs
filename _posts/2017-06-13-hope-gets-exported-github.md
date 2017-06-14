@@ -12,7 +12,7 @@ published: true
 Export me please!!!
 
 
-```
+```json
 {
   "hello": "world",
   "name": "Albert"
