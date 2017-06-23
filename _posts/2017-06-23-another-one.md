@@ -12,7 +12,7 @@ published: true
 # ANOTHER ONE!!!
 
 ```
-  let hello = () => {
+let hello = () => {
   console.log('hello world!!');
 }
 ```
