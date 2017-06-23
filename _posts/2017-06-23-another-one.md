@@ -22,7 +22,6 @@ console.log(&#039;hello world!!&#039;);
 
 console.log('hello world!!');
 
-
 `console.log('hello world!!');`
 
 hello
