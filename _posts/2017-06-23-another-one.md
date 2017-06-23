@@ -12,8 +12,8 @@ published: true
 # ANOTHER ONE!!!
 
 ```
-let hello = () => {
-  console.log('hello world!!');
+let hello = () =&gt; {
+  console.log(&#039;hello world!!&#039;);
 }
 ```
 
