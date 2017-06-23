@@ -9,19 +9,13 @@ permalink: >
   http://applatix.staging.wpengine.com/another-one/
 published: true
 ---
-# ANOTHER ONE!!!
-
-```
-let hello = () =&gt; {
-console.log(&#039;hello world!!&#039;);
-}
-```
-
-# Does this really work??
-
-
-console.log('hello world!!');
-
-`console.log('hello world!!');`
-
-hello
+<p># ANOTHER ONE!!!</p>
+<p>```<br />
+ let hello = () =&gt; {<br />
+ console.log('hello world!!');<br />
+ }<br />
+ ```</p>
+<p># Does this really work??</p>
+<p>console.log('hello world!!');</p>
+<p>`console.log('hello world!!');`</p>
+<p>hello</p>
