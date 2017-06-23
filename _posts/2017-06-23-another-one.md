@@ -13,7 +13,7 @@ published: true
 
 ```
 let hello = () =&gt; {
-console.log(&#039;hello world!!&#039;);
+console.log( &#039;hello world!!&#039; );
 }
 ```
 
