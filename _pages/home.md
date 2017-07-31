@@ -171,7 +171,7 @@ home_template_1_customer_logos:
 home_template_2_top_content:
   - |
     <p><span style="font-size: 28px;"><strong>It’s one thing to make containers work on a laptop… running in production is another.</strong></span></p>
-    <p><span style="font-size: 24px;">In 10 minutes Applatix gives you a complete environment to build and run containerized apps with Docker and Kubernetes in your AWS or Google Cloud Platform account.</span></p>
+    <p><span style="font-size: 24px;">Our mission is to help your software development team succeed with containers and Kubernetes in the cloud - in both development and production. </span></p>
 home_template_2_slides_0_slide_image:
   - "505"
 home_template_2_slides_0_slide_title:
