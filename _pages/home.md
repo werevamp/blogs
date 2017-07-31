@@ -373,20 +373,30 @@ home_template_5_cta_blocks_2_button_url:
 home_template_6_title:
   - 'Why Applatix?  We are enterprise systems developers with deep experience building and running scalable apps in production on Kubernetes.    We give you:'
 home_template_6_solutions_0_icon:
-  - "621"
+  - "607"
 home_template_6_solutions_0_title:
-  - something here
+  - Products
 home_template_6_solutions_0_content:
   - |
-    Products
-    
     Open source tools for development teams building on containers and Kubernetes.
     
 home_template_6_solutions_0_button_text:
   - Learn More
 home_template_6_solutions_0_button_url:
-  - https://applatix.com/use-cases/
+  - https://applatix.com/applatix-product/
 home_template_6_solutions:
-  - "1"
+  - "2"
+home_template_6_solutions_1_icon:
+  - "611"
+home_template_6_solutions_1_title:
+  - Services
+home_template_6_solutions_1_content:
+  - |
+    Training, Support, and Consulting for teams running Containers and Kubernetes
+    
+home_template_6_solutions_1_button_text:
+  - Learn More
+home_template_6_solutions_1_button_url:
+  - https://applatix.com/use-cases/
 ---
 <p>johnDbuab</p>
