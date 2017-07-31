@@ -241,18 +241,18 @@ home_template_5_title:
 home_template_5_cta_blocks_0_image:
   - "467"
 home_template_5_cta_blocks_0_content:
-  - '<p><span style="font-size: 20px;">Applatix is free for teams under 5 and for any open source team.</span></p>'
+  - '<p><span style="font-size: 20px;">“Containers and Kubernetes 201” – Tutorials and Training </span></p>'
 home_template_5_cta_blocks_0_button_text:
-  - Free Trial
+  - Free Tutorials
 home_template_5_cta_blocks_0_button_url:
   - >
     https://pages.applatix.staging.wpengine.com/acton/media/25513/contact-us-for-a-free-trial-of-applatix
 home_template_5_cta_blocks_1_image:
   - "563"
 home_template_5_cta_blocks_1_content:
-  - '<p><span style="font-size: 20px;">Try the Applatix Playground interactive demo environment.</span></p>'
+  - '<p><span style="font-size: 20px;">Open Source Products for Containers and Cloud </span></p>'
 home_template_5_cta_blocks_1_button_text:
-  - Live Demo
+  - Free Tools
 home_template_5_cta_blocks_1_button_url:
   - >
     https://pages.applatix.staging.wpengine.com/acton/media/25513/applatix-free-trial-playground-demo-aws-cloud-migration-docker-kubernetes
@@ -270,7 +270,7 @@ home_template_2_slides_2_tab_url:
 home_template_5_cta_blocks_2_image:
   - "564"
 home_template_5_cta_blocks_2_content:
-  - '<p><span style="font-size: 20px;">Claudia is free AWS cost control that runs in your cloud.</span></p>'
+  - '<p><span style="font-size: 20px;">Container challenges?  Try our technical team</span></p>'
 home_template_5_cta_blocks_2_button_text:
   - Get Claudia
 home_template_5_cta_blocks_2_button_url:
