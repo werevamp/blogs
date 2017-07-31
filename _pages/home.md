@@ -8,7 +8,7 @@ layout: page
 permalink: http://applatix.staging.wpengine.com/
 published: true
 home_template:
-  - 'a:6:{i:0;s:12:"hero_section";i:1;s:17:"customers_section";i:2;s:19:"home_slider_section";i:3;s:19:"testimonial_section";i:4;s:18:"highlights_section";i:5;s:19:"get_started_section";}'
+  - 'a:7:{i:0;s:12:"hero_section";i:1;s:17:"customers_section";i:2;s:19:"home_slider_section";i:3;s:19:"testimonial_section";i:4;s:18:"highlights_section";i:5;s:19:"get_started_section";i:6;s:17:"solutions_section";}'
 home_template_0_title:
   - ""
 home_template_0_content:
@@ -370,5 +370,23 @@ home_template_5_cta_blocks_2_button_text:
 home_template_5_cta_blocks_2_button_url:
   - >
     http://applatix.staging.wpengine.com/claudia/
+home_template_6_title:
+  - 'Why Applatix?  We are enterprise systems developers with deep experience building and running scalable apps in production on Kubernetes.    We give you:'
+home_template_6_solutions_0_icon:
+  - "621"
+home_template_6_solutions_0_title:
+  - something here
+home_template_6_solutions_0_content:
+  - |
+    Products
+    
+    Open source tools for development teams building on containers and Kubernetes.
+    
+home_template_6_solutions_0_button_text:
+  - Learn More
+home_template_6_solutions_0_button_url:
+  - https://applatix.com/use-cases/
+home_template_6_solutions:
+  - "1"
 ---
-johnDbuab
+<p>johnDbuab</p>
