@@ -371,7 +371,7 @@ home_template_5_cta_blocks_2_button_url:
   - >
     http://applatix.staging.wpengine.com/claudia/
 home_template_6_title:
-  - 'Why Applatix? <span style="font-size: 24px;" >  We are enterprise systems developers with deep experience building and running scalable apps in production on Kubernetes.    We give you: </span>'
+  - 'Why Applatix? <span style="font-size: 24px;" >  <br> We are enterprise systems developers with deep experience building and running scalable apps in production on Kubernetes.    We give you: </span>'
 home_template_6_solutions_0_icon:
   - "607"
 home_template_6_solutions_0_title:
