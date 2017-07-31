@@ -158,9 +158,9 @@ home_template_0_headline_1:
 home_template_0_headline_2:
   - Cloud Migration and Management Solutions
 home_template_0_links:
-  - "1"
+  - "2"
 home_template_0_links_0_button_text:
-  - Live Demo
+  - Get Argo
 home_template_0_links_0_button_url:
   - >
     https://pages.applatix.staging.wpengine.com/acton/media/25513/applatix-free-trial-playground-demo-aws-cloud-migration-docker-kubernetes
@@ -344,5 +344,10 @@ home_template_4_background_image:
   - "463"
 home_template_4_image_highlight:
   - "613"
+home_template_0_links_1_button_text:
+  - Get Training
+home_template_0_links_1_button_url:
+  - >
+    https://pages.applatix.staging.wpengine.com/acton/media/25513/applatix-free-trial-playground-demo-aws-cloud-migration-docker-kubernetes
 ---
 <p>johnDbuab</p>
