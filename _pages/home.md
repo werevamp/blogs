@@ -272,7 +272,7 @@ home_template_5_cta_blocks_2_image:
 home_template_5_cta_blocks_2_content:
   - '<p><span style="font-size: 20px;">Container challenges?  Try our technical team</span></p>'
 home_template_5_cta_blocks_2_button_text:
-  - Get Claudia
+  - Contact Us
 home_template_5_cta_blocks_2_button_url:
   - >
     http://applatix.staging.wpengine.com/claudia/
