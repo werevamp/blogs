@@ -8,7 +8,7 @@ layout: page
 permalink: http://applatix.staging.wpengine.com/
 published: true
 home_template:
-  - 'a:7:{i:0;s:12:"hero_section";i:1;s:17:"customers_section";i:2;s:19:"home_slider_section";i:3;s:19:"testimonial_section";i:4;s:18:"highlights_section";i:5;s:19:"get_started_section";i:6;s:17:"solutions_section";}'
+  - 'a:6:{i:0;s:12:"hero_section";i:1;s:17:"customers_section";i:2;s:19:"home_slider_section";i:3;s:17:"solutions_section";i:4;s:19:"testimonial_section";i:5;s:19:"get_started_section";}'
 home_template_0_title:
   - ""
 home_template_0_content:
@@ -154,7 +154,7 @@ custom_nav:
 nav_icon:
   - ""
 home_template_0_headline_1:
-  - '<p>Build and Run Containerized Apps in the Public Cloud at Scale <strong>with Applatix</strong></p>'
+  - '<p><strong>Make Containers Boring.</strong> Succeed with Kubernetes in development and production.</p>'
 home_template_0_headline_2:
   - Cloud Migration and Management Solutions
 home_template_0_links:
@@ -236,90 +236,6 @@ home_template_2_slides_2_tab_content:
     workflow.
 home_template_2_slides:
   - "3"
-home_template_3_title:
-  - What can Applatix do for you?
-home_template_3_testimonials_0_quote:
-  - |
-    <p><span style="font-size: 20px; color: #99e1ea;">“DevOps is often considered the “Dark Art” of the SaaS world - the processes are often obscure and there is little transparency. For this reason, automation with fixed approval gates, consistent and deterministic service and delivery output is critical to avoid build, test and deployment failures. This is where Applatix shines.” </span></p>
-    <p><span style="font-size: 20px;"><span style="color: #ffffff;">-</span> <span style="color: #ffffff;"><em>Peter Jackson, Shibumi</em></span></span></p>
-home_template_3_testimonials_0_author:
-  - ""
-home_template_3_testimonials_0_company:
-  - ""
-home_template_3_testimonials_0_image:
-  - "719"
-home_template_3_testimonials_0_link:
-  - ""
-home_template_3_testimonials_1_quote:
-  - '<p><span style="font-size: 20px;"><span style="color: #99e1ea;">“Applatix radically simplifies DevOps so my customers can have their best talent develop and deploy apps rather than build and maintain tools and infrastructure.”</span><span style="color: #ffffff;"> <em>- John Phillips, Intervision</em></span></span></p>'
-home_template_3_testimonials_1_author:
-  - ""
-home_template_3_testimonials_1_company:
-  - ""
-home_template_3_testimonials_1_image:
-  - "717"
-home_template_3_testimonials_1_link:
-  - ""
-home_template_3_testimonials:
-  - "3"
-home_template_3_background_image:
-  - "463"
-home_template_3_image_highlight:
-  - "613"
-home_template_4_title:
-  - '<span style="color:#00a2b2">Why use Applatix?</span>'
-home_template_4_highlights_0_icon:
-  - "610"
-home_template_4_highlights_0_title:
-  - Modernize Apps
-home_template_4_highlights_0_content:
-  - >
-    Use Docker and Kubernetes without pain
-    of configuration, maintenance and
-    upgrades.
-home_template_4_highlights_1_icon:
-  - "607"
-home_template_4_highlights_1_title:
-  - DevOps and CI/CD
-home_template_4_highlights_1_content:
-  - >
-    Run thousands of workflows in parallel
-    with containers, in your cloud, without
-    Jenkins.
-home_template_4_highlights_2_icon:
-  - "608"
-home_template_4_highlights_2_title:
-  - Microservices
-home_template_4_highlights_2_content:
-  - >
-    Build and run resilient and scalable
-    microservices with automated CD
-    workflows.
-home_template_4_highlights_3_icon:
-  - "612"
-home_template_4_highlights_3_title:
-  - Control Cloud Spend
-home_template_4_highlights_3_content:
-  - 'Use Spot instances in dev and production to slash costs by 70% (seriously).'
-home_template_4_highlights_4_icon:
-  - "609"
-home_template_4_highlights_4_title:
-  - Migration Factories
-home_template_4_highlights_4_content:
-  - >
-    Move on-prem apps to the cloud as
-    container-native apps without
-    refactoring.
-home_template_4_highlights_5_icon:
-  - "611"
-home_template_4_highlights_5_title:
-  - Multi-Cloud Support
-home_template_4_highlights_5_content:
-  - |
-    Deploy on AWS and GCP to reduce risk of cloud lock-in.
-    
-home_template_4_highlights:
-  - "6"
 home_template_5_title:
   - Get started with Applatix
 home_template_5_cta_blocks_0_image:
@@ -342,16 +258,6 @@ home_template_5_cta_blocks_1_button_url:
     https://pages.applatix.staging.wpengine.com/acton/media/25513/applatix-free-trial-playground-demo-aws-cloud-migration-docker-kubernetes
 home_template_5_cta_blocks:
   - "3"
-home_template_3_testimonials_2_quote:
-  - '<p><span style="font-size: 20px; color: #99e1ea;">“Applatix gives the RocksDB open source community fast, reliable builds and the ability to continually run automated tests. We have never seen an erroneous build or test failure with RocksDB-Cloud since we migrated to Applatix. I feel that many other Open Source project builds should migrate to Applatix.”</span><span style="font-size: 20px; color: #ffffff;">- <em>Dhruba Borthakur, Rockset</em></span></p>'
-home_template_3_testimonials_2_author:
-  - ""
-home_template_3_testimonials_2_company:
-  - ""
-home_template_3_testimonials_2_image:
-  - "718"
-home_template_3_testimonials_2_link:
-  - ""
 home_template_2_slides_0_tab_url:
   - >
     http://applatix.staging.wpengine.com/applatix-product/
@@ -370,33 +276,73 @@ home_template_5_cta_blocks_2_button_text:
 home_template_5_cta_blocks_2_button_url:
   - >
     http://applatix.staging.wpengine.com/claudia/
-home_template_6_title:
+home_template_3_title:
   - 'Why Applatix? <span style="color: #6d7f8b; font-size: 24px;" >  <br> We are enterprise systems developers with deep experience building and running scalable apps in production on Kubernetes.    We give you: </span>'
-home_template_6_solutions_0_icon:
+home_template_3_solutions_0_icon:
   - "607"
-home_template_6_solutions_0_title:
+home_template_3_solutions_0_title:
   - Products
-home_template_6_solutions_0_content:
+home_template_3_solutions_0_content:
   - |
     Open source tools for development teams building on containers and Kubernetes.
     
-home_template_6_solutions_0_button_text:
+home_template_3_solutions_0_button_text:
   - Learn More
-home_template_6_solutions_0_button_url:
+home_template_3_solutions_0_button_url:
   - https://applatix.com/applatix-product/
-home_template_6_solutions:
-  - "2"
-home_template_6_solutions_1_icon:
+home_template_3_solutions_1_icon:
   - "611"
-home_template_6_solutions_1_title:
+home_template_3_solutions_1_title:
   - Services
-home_template_6_solutions_1_content:
+home_template_3_solutions_1_content:
   - |
     Training, Support, and Consulting for teams running Containers and Kubernetes
     
-home_template_6_solutions_1_button_text:
+home_template_3_solutions_1_button_text:
   - Learn More
-home_template_6_solutions_1_button_url:
+home_template_3_solutions_1_button_url:
   - https://applatix.com/use-cases/
+home_template_3_solutions:
+  - "2"
+home_template_4_title:
+  - What can Applatix do for you?
+home_template_4_testimonials_0_quote:
+  - |
+    <p><span style="font-size: 20px; color: #99e1ea;">“DevOps is often considered the “Dark Art” of the SaaS world - the processes are often obscure and there is little transparency. For this reason, automation with fixed approval gates, consistent and deterministic service and delivery output is critical to avoid build, test and deployment failures. This is where Applatix shines.” </span></p>
+    <p><span style="font-size: 20px;"><span style="color: #ffffff;">-</span> <span style="color: #ffffff;"><em>Peter Jackson, Shibumi</em></span></span></p>
+home_template_4_testimonials_0_author:
+  - ""
+home_template_4_testimonials_0_company:
+  - ""
+home_template_4_testimonials_0_image:
+  - "719"
+home_template_4_testimonials_0_link:
+  - ""
+home_template_4_testimonials_1_quote:
+  - '<p><span style="font-size: 20px;"><span style="color: #99e1ea;">“Applatix radically simplifies DevOps so my customers can have their best talent develop and deploy apps rather than build and maintain tools and infrastructure.”</span><span style="color: #ffffff;"> <em>- John Phillips, Intervision</em></span></span></p>'
+home_template_4_testimonials_1_author:
+  - ""
+home_template_4_testimonials_1_company:
+  - ""
+home_template_4_testimonials_1_image:
+  - "717"
+home_template_4_testimonials_1_link:
+  - ""
+home_template_4_testimonials_2_quote:
+  - '<p><span style="font-size: 20px; color: #99e1ea;">“Applatix gives the RocksDB open source community fast, reliable builds and the ability to continually run automated tests. We have never seen an erroneous build or test failure with RocksDB-Cloud since we migrated to Applatix. I feel that many other Open Source project builds should migrate to Applatix.”</span><span style="font-size: 20px; color: #ffffff;">- <em>Dhruba Borthakur, Rockset</em></span></p>'
+home_template_4_testimonials_2_author:
+  - ""
+home_template_4_testimonials_2_company:
+  - ""
+home_template_4_testimonials_2_image:
+  - "718"
+home_template_4_testimonials_2_link:
+  - ""
+home_template_4_testimonials:
+  - "3"
+home_template_4_background_image:
+  - "463"
+home_template_4_image_highlight:
+  - "613"
 ---
 <p>johnDbuab</p>
